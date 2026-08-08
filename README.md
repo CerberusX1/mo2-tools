@@ -13,3 +13,10 @@ step 2 run run_setup.bat to do your initial set up and configuration of the tool
 step 3, run run_changelog.bat any time you have added new mods and wish to generate a new changelog
 
 step 4 enjoy less work
+
+
+notes
+
+when you first run the set up it will appear to not be working, just let it do its thing it might take a bit, its building a snapshot of your modlist.
+
+to get the correct version number in the changelog please compile your modlist in wabbajack before running the changelog tool, other wise you can edit the version number manually
