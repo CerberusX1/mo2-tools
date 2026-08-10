@@ -1,12 +1,30 @@
 # mo2-tools
 usefull tools to help in the creation of modlists for wabbajack
 
+in order for any of my tools to work you must first follow these steps
+
+step 1. open terminal/command prompt as admin
+
+step 2. enter the following commands     
+
+pip install requests
+
+py -3 -m pip install requests   - this one if you have multiple versions of python installed
+
+python -m pip install requests   -this one if you dont have multiple versions of python installed
+
+
+
+
+
+
+
 
 the changelog generator
 
 this is used to automatically generate changelogs for your mo2 modlists used in wabbajack
 
-step 1 download the file and extract it
+step 1 download the file and extract it to its own folder
 
 step 2 run run_setup.bat to do your initial set up and configuration of the tool and to generate a base line for your modlist
 
