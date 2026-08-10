@@ -5,9 +5,9 @@ in order for any of my tools to work you must first follow these steps
 
 step 1. open terminal/command prompt as admin
 
-step 2. enter the following commands     
+step 2. enter the following command     
 
-pip install requests
+pip install requests     - use this one, if it fails use other
 
 py -3 -m pip install requests   - this one if you have multiple versions of python installed
 
